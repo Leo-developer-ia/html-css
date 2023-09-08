@@ -1,0 +1,31 @@
+@charset 'UTF-8';
+body{
+    background-color: rgb(43, 9, 233);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#prince{
+    text-align: center;
+    color: #fff; 
+
+
+}
+.basic{
+    color: chartreuse;
+}
+.intermed{
+    color: rgb(9, 185, 112);
+}
+.avance{
+    color: rgb(12, 194, 148);
+}
+h1{
+    color: darkgreen;
+}
+h2{
+    color: green;
+}
+.destaque{
+    background-color: chartreuse;
+}
+/*em html e id em css e #
+em html e class e css e .*/
